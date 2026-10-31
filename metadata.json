@@ -1,0 +1,6 @@
+{
+  "name": "TAZYO - Fresh Fruits & Vegetables Delivery",
+  "description": "Fresh, Wash, Hygienic & Ready to Cut Fruits and Vegetables Home Delivery Service with WhatsApp, Google Maps, and Delivery OTP System.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
